@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: docker.io/ckshetty4/poc3-app:build-12
+        image: docker.io/ckshetty4/poc3-app:build-13
         ports:
         - containerPort: 8080
 ---
